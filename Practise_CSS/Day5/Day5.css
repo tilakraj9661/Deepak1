@@ -1,0 +1,36 @@
+a:link {color: red;}
+
+a:active{color: rgb(147, 17, 65);}
+a:visited {color: darkseagreen;}
+a:hover {color: darkorange;}
+
+
+/* p::first-line {color: brown;} */
+
+/* p::before {content: url(../Day4/cars.jpg);}
+p::after {content: url(../../Practise_CSS/Day4/bikes.jpg);} */
+P::selection {color: tomato;}
+p:first-child {color: yellowgreen;}
+p:nth-child(even) {color: darkorange;}
+p:nth-child(odd) {color: deeppink;}
+#deep {font-family: 'Times New Roman', Times, serif ;}
+#deep {font-size: 10px;}
+/* #deep {background-image: url(../Day4/bikes.jpg);} */
+
+
+
+
+
+/* *PSEUDO CLASS(:)-- DECORATE ENTIRE ELEMENT
+*PSEUDO ELEMENT(::)--DECORATE ONLU PERTICULAR PART OF THAT ELEMENT
+
+: - colone symbol is used for Pseudo Classses
+:: - double colone symbole is for Pseudo element
+:hover - this class use for mouse tya link vr nela ki tyacha color show krto
+:visited - color continuously apply houn rahto
+:link - click kelyavr color show krto
+:first-child - purn first passage la colour krto
+
+::first-line - only passage chi first line color apply krto
+::before/after - passage chya start kiva end la photo kiwa ajun khi add krto
+::selection - jeva apn kontyahi word vr click kru teva to dilela color gheil*/

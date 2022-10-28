@@ -1,0 +1,28 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+   background-color:rgb(232, 211, 211);
+   margin-block-end: auto;
+   
+}
+.section {
+    height: 120px;
+    width: 160px;
+    background-color: rgb(243, 75, 207);
+    color: chocolate;
+    border: 15px blue;
+    padding: 15px;
+    
+}
+.section1 {
+    height: 120px;
+    width: 160px;
+    background-color: rgb(131, 224, 70);
+    color: chocolate;
+    border: 15px green;
+    padding: 15px;
+    
+    
+    
+}

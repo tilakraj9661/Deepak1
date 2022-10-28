@@ -1,0 +1,67 @@
+style {
+    background-image: image(logo.html);
+}
+.realme {
+    height: 150px;
+    width: 250px;
+    border: 22px;
+    padding: 15px;
+    margin: 12px;
+    color: rgb(17, 84, 2);
+    background-color: cadetblue;
+    
+   
+    
+}
+
+.samsung {
+    height: 150px;
+    width: 250px;
+    border: 23px;
+    padding: 15px;
+    margin: 15px;
+    color: crimson;
+    background: pink;
+    
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.hp {
+    color:black;
+    background-color:darkorange;
+    height: 100;
+    width: 100;
+    border: 15px;
+    padding: 15px;
+    margin: 13px;
+}
+.lenovo {
+    text-align: center;
+    color:black;
+    background-color:white;
+    height: 20;
+    width: 100;
+    border: 15px;
+    padding: 15px;
+    margin: 13px;
+}
+.dell {
+    color:black;
+    background-color:green;
+    height: 100;
+    width: 100;
+    border: 15px;
+    padding: 15px;
+    margin: 13px;
+}

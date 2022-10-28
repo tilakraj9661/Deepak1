@@ -1,0 +1,45 @@
+ .master {
+    display: flex;
+    
+} 
+
+.rio {
+    color: brown;
+    background-color: chartreuse;
+    height: 230px;
+    width: 50%;
+    border: solid black 2px;
+    padding: 15px;
+    margin-inline-end: auto;
+ }
+ .football {
+    color: brown;
+    background-color: chartreuse;
+    height: 230px;
+    border: solid black 2px;  
+    width: 50%;
+    padding: 15px;
+  
+ }
+
+ .cricket {
+    color: brown;
+    background-color: chartreuse;
+    height: 230px;
+    width: 50%;
+    border: solid black 2px;
+    padding: 15px;
+    margin-inline-end: auto;
+    
+  }   
+
+ .hollyball {
+    color: brown;
+    background-color: chartreuse;
+    height: 230px;
+    border: solid black 2px;  
+    width: 50%;
+    padding: 15px;
+ }  
+
+ 

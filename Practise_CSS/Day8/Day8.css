@@ -1,0 +1,38 @@
+ body{
+    display: flex;
+     justify-content: space-around; 
+     flex-wrap: wrap;
+    background-color: grey;
+}
+    
+.screen2{
+    background-color: yellowgreen;
+   
+    border: 3px solid black;
+   padding: 10px;
+   position: relative;
+   top: 120px; 
+    height: 50%;
+   width: 50%;
+}
+
+
+
+
+  .screen1{
+    border: 2px solid black;
+    width: 45%;
+    height: 500px;
+    background-color: pink;
+} 
+@media (orientation: landscape) {
+    body{background-color: rgb(236, 58, 150);
+    }
+  
+}
+@media (max-width: 400px){
+body{
+        background-color: brown;
+    }
+}  
+ 

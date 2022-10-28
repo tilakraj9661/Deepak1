@@ -1,0 +1,61 @@
+p{
+    position: relative;
+    left: 50px;
+    top: 50px;
+    color: red;
+    border: 2px solid black;
+}
+.img {
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    border: 2px solid green;
+}
+ 
+h3{
+    border: 2px solid brown;
+    background-color: burlywood;
+    position: fixed;
+    position: absolute;
+    bottom: 0%;
+
+    margin-left: 50%;}
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* CSS:
+position 
+    Absoulute
+    stciky
+    static
+    relative
+    fixed
+z index
+    heighre order will rened 1st */

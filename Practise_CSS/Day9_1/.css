@@ -1,0 +1,60 @@
+.main{
+    display: flex;
+    display: inline;
+    overflow: hidden;
+    flex-wrap: wrap;
+}
+.bottle{
+    display:flex;
+    /* border: 2px solid black; */
+    height: 450px;
+    width: 800px;
+    background-color: burlywood;
+  }
+img{
+    flex-wrap: wrap;
+    display: flex;
+}
+.bottle1{
+    display: inline;
+    width: 40%;
+    left: 15px;
+    padding: 20px;
+}
+
+.bottle2{
+    display: inline-block;
+    position: relative;
+    left:50px;
+    bottom: -100px;
+    width: 300px;
+    height: 50%;
+    border: 2px solid black;
+}
+
+@media (max-width: 700px) {
+    .bottle{
+        display: inline;
+        flex-wrap: wrap;
+        flex-direction: column;}
+    body{
+        background-color: aqua;
+    }
+}
+
+@media (max-width: 500px)   {
+    .bottle{
+        display: inline;
+        flex-wrap: wrap;
+        flex-direction: column;}
+    body{background-color: rgb(255, 0, 225);}
+}
+
+@media (max-width: 350px)   {
+    .bottle{
+        display: inline;
+        flex-wrap: wrap;
+        flex-direction: column;}
+    body{background-color: rgb(237, 210, 58);}
+}
+
